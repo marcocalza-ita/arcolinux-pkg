@@ -1,0 +1,2 @@
+# arcolinux-pkg
+pgk arcolinux
