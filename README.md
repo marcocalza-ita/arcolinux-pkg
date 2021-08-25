@@ -1,2 +1,1 @@
-# arcolinux-pkg
-pgk arcolinux
+ArcoLinux pkg-builds italiani
